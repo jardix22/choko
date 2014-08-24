@@ -3,7 +3,7 @@
   "description": "Light and shadow.",
   "thumbnail": "/bootswatch/lumen/thumbnail.png",
   "styles": [
-    "/bootswatch/lumen/bootstrap.min.css",
+    "/lib/bootswatch/lumen/bootstrap.min.css",
     "/lib/font-awesome/css/font-awesome.min.css"
   ]
 }

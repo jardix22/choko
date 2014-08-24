@@ -47,9 +47,16 @@
     npm install
     bower install
 
+  You also need to run bower install on the theme extension folder in order to
+  download Bootswatch themes.
+
+    cd choko/applications/default/extensions/theme
+    bower install
+
   Now you can start the Choko server by going to the choko main folder and
   running it.
 
+    cd ../../../..
     node server.js
 
   You can also run it using the choko script like this:

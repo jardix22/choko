@@ -1,0 +1,6 @@
+{
+  "name": "choko-themes",
+  "dependencies": {
+    "bootswatch": "3.2.x"
+  }
+}
